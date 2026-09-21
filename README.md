@@ -1,2 +1,2 @@
 # GeoSea
-Plugin de Navegação Marítima
+Plugin de Navegação Marítima para o QGIS
