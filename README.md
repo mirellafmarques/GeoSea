@@ -1,2 +1,2 @@
 # GeoSea
-Plugin de Navegação Marítima versão 3.0 para o QGIS
+Plugin de Navegação Marítima versão 0.1 para o QGIS
