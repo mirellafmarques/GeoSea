@@ -1,4 +1,4 @@
-# GeoSea Maritime Navigation & Hydrographic Survey Plugin for QGIS
+# GeoSea - Maritime Navigation & Hydrographic Survey Plugin for QGIS
 Plugin para QGIS voltado à navegação e levantamentos hidrográficos, com integração de sensores, posicionamento GNSS, planejamento de linhas e apoio à navegação em tempo real. Versão 0.1.
 
 ___________
