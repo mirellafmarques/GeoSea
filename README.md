@@ -3,7 +3,7 @@ The project focuses on real-time maritime navigation and hydrographic survey sup
 
 
 ___________
-GeoSea is a QGIS plugin developed by Mirella F. Marques as part of her Master's research at the Graduate Program in Ocean and Earth Dynamics (PPG-DOT), Universidade Federal Fluminense (UFF).
+GeoSea is an open-source QGIS plugin developed by Mirella F. Marques as part of her Master's research in Ocean and Earth Dynamics at the Universidade Federal Fluminense (UFF). The project was developed and presented as part of the Master's dissertation defended on August 28, 2026.
 
 
 Versão 0.1.
